@@ -11,7 +11,7 @@
   "license": "ISC",
   "gypfile": true,
   "dependencies": {
-    "node-pre-gyp": "0.7.0"
+    "node-pre-gyp": "0.8.0"
   },
   "binary": {
     "module_name": "helloworld",
